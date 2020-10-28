@@ -6,12 +6,10 @@
         "ANGKATAN": 2018,
         "KELAS": "TI A",
         "MATA_KULIAH": [{
-            "1": [{
                 "KODE": "CIT2332",
                 "NAMA": "WEB",
                 "SKS": 3
-            }],
-            "2": [{
+            },{
                 "KODE": "CIT2424",
                 "NAMA": "MOBILE",
                 "SKS": 3
