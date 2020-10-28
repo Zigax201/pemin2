@@ -15,5 +15,39 @@
                 "SKS": 3
             }]
         }]
-    }
+    },
+    "DATA_MAHASISWA_RENJI":{
+      "MAHASISWA": [{
+          "NIM": 185150700111005,
+          "NAMA": "Kevin Renjiro",
+          "ANGKATAN": 2018,
+          "KELAS": "TI A",
+          "MATA_KULIAH": [{
+                  "KODE": "CBT24525",
+                  "NAMA": "PEMINT",
+                  "SKS": 3
+              },{
+                  "KODE": "GEF3532",
+                  "NAMA": "KI",
+                  "SKS": 2
+              }]
+          }]
+      },
+      "DATA_MAHASISWA_BESAR":{
+        "MAHASISWA": [{
+            "NIM": 185150700111011,
+            "NAMA": "Besar Rahmat",
+            "ANGKATAN": 2018,
+            "KELAS": "TI A",
+            "MATA_KULIAH": [{
+                    "KODE": "CIT2332",
+                    "NAMA": "TIK",
+                    "SKS": 2
+                },{
+                    "KODE": "CIT2424",
+                    "NAMA": "TKTI",
+                    "SKS": 2
+                }]
+            }]
+        }
   }
