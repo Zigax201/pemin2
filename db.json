@@ -1,5 +1,5 @@
 {
-  "DATA_MAHASISWA":[{
+  "DATA_MAHASISWA":{
     "MAHASISWA": [{
         "NIM": 185150701111005,
         "NAMA": "Alvan Dwi Akbar A",
@@ -18,5 +18,5 @@
             }]
         }]
     }]
-  }]
+  }
 }
