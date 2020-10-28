@@ -1,20 +1,20 @@
 {
-  "TOKOA":{
-    "NAMA":"OLSHOPBABY",
-    "OWNER":"JOKO",
-    "PRODUK":{
-      "DIAPERS":{
-        "STOK":"3",
-        "HARGA":"30000"
-      },
-      "SUSU":{
-        "STOK":"5",
-        "HARGA":"70000"
-      },
-      "BAJU_BAYI":{
-        "STOK":"1",
-        "HARGA":"8000"
-      }
-    }
-  }
+    "MAHASISWA": [{
+        "NIM": 185150701111005,
+        "NAMA": "Alvan Dwi Akbar A",
+        "ANGKATAN": 2018,
+        "KELAS": "TI A",
+        "MATA_KULIAH": [{
+            "1": [{
+                "KODE": "CIT2332",
+                "NAMA": "WEB",
+                "SKS": 3
+            },
+            "2": {
+                "KODE": "CIT2424",
+                "NAMA": "MOBILE",
+                "SKS": 3
+            }]
+        }]
+    }]
 }
