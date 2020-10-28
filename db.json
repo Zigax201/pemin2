@@ -9,8 +9,8 @@
                 "KODE": "CIT2332",
                 "NAMA": "WEB",
                 "SKS": 3
-            },
-            "2": {
+            }],
+            "2": [{
                 "KODE": "CIT2424",
                 "NAMA": "MOBILE",
                 "SKS": 3
